@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dvarmpn",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Calculate the variance of a double-precision floating-point strided array provided a known mean and using Neely's correction algorithm.",
   "license": "Apache-2.0",
   "author": {
