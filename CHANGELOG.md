@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-08)
+## Unreleased (2025-06-13)
+
+<section class="features">
+
+### Features
+
+-   [`0e2b7a0`](https://github.com/stdlib-js/stdlib/commit/0e2b7a0526801881a812ce4fdbd409d52f92035c) - add C ndarray interface and refactor implementation for `stats/base/dvarmpn` [(#7268)](https://github.com/stdlib-js/stdlib/pull/7268)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`0e2b7a0`](https://github.com/stdlib-js/stdlib/commit/0e2b7a0526801881a812ce4fdbd409d52f92035c) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dvarmpn` [(#7268)](https://github.com/stdlib-js/stdlib/pull/7268) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`c207ec0`](https://github.com/stdlib-js/stdlib/commit/c207ec04c36c99e70363baef8ecef6baba10a198) - **chore:** fix C lint errors [(#6938)](https://github.com/stdlib-js/stdlib/pull/6938) _(by zhanggy)_
 -   [`eaff108`](https://github.com/stdlib-js/stdlib/commit/eaff10877ccadb63eeaa81e95c3acb7825859ee4) - **refactor:** update `stats/base/dvarmpn` native addon from C++ to C [(#4406)](https://github.com/stdlib-js/stdlib/pull/4406) _(by Vivek Maurya)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
@@ -41,9 +52,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Gururaj Gurram
 -   Philipp Burckhardt
 -   Vivek Maurya
 -   zhanggy
